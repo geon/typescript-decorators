@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "es6",
+		"moduleResolution": "node",
+		"target": "es6",
+		"noImplicitAny": true,
+		"removeComments": false,
+		"experimentalDecorators": true
+	},
+	"files": [
+		"User.ts"
+	]
+}
